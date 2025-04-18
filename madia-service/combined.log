@@ -1,0 +1,54 @@
+{"level":"info","message":"Server is running on port 3003 000","service":"identified-service","timestamp":"2025-04-08T09:42:49.069Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-08T09:42:49.131Z"}
+{"level":"info","message":"Server is running on port 3003 000","service":"identified-service","timestamp":"2025-04-08T09:43:08.275Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-08T09:43:08.314Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T10:20:29.063Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T10:20:29.065Z"}
+{"level":"info","message":"Server is running on port 3003 000","service":"identified-service","timestamp":"2025-04-08T10:22:34.458Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-08T10:22:34.493Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T10:22:40.892Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T10:22:40.893Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T10:22:42.792Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T10:22:42.793Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:11:00.375Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:11:00.386Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:11:16.842Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:11:16.845Z"}
+{"level":"info","message":"Server is running on port 3003 000","service":"identified-service","timestamp":"2025-04-08T11:14:49.512Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-08T11:14:49.558Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:15:12.983Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:15:12.984Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:15:14.485Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:15:14.486Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:17:16.504Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:17:16.505Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:17:18.759Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:17:18.760Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:21:07.133Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:21:07.134Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:22:04.981Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:22:04.983Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:22:06.435Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:22:06.435Z"}
+{"level":"info","message":"Server is running on port 3003 000","service":"identified-service","timestamp":"2025-04-08T11:24:20.642Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-08T11:24:20.685Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:24:21.982Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:24:21.983Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:24:23.293Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:24:23.294Z"}
+{"level":"info","message":"Server is running on port 3003 000","service":"identified-service","timestamp":"2025-04-08T11:24:30.155Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-08T11:24:30.189Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:24:32.784Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:24:32.785Z"}
+{"level":"info","message":"Server is running on port 3003 000","service":"identified-service","timestamp":"2025-04-08T11:24:52.547Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-08T11:24:52.582Z"}
+{"level":"info","message":"Server is running on port 3003 000","service":"identified-service","timestamp":"2025-04-08T11:25:54.986Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-08T11:25:55.021Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:25:56.980Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:25:56.981Z"}
+{"api_key":"945373698964274","asset_id":"8b1b399558f3e79e4b9cb13fa19ef19f","bytes":512017,"created_at":"2025-04-08T11:26:00Z","etag":"7c858c1e9e6c971cc360141e92fc918e","folder":"","format":"jpg","height":1792,"level":"info","message":"File uploaded to Cloudinary","original_filename":"file","placeholder":false,"public_id":"bxswizx0m68yjxtsj03k","resource_type":"image","secure_url":"https://res.cloudinary.com/drrfx5vki/image/upload/v1744111560/bxswizx0m68yjxtsj03k.jpg","service":"identified-service","signature":"e45de0e00faf48a00273cca33f59ee330731e743","tags":[],"timestamp":"2025-04-08T11:26:01.678Z","type":"upload","url":"http://res.cloudinary.com/drrfx5vki/image/upload/v1744111560/bxswizx0m68yjxtsj03k.jpg","version":1744111560,"version_id":"c65fb89bbe2e9f1ee662a9fa9e7cf423","width":1792}
+{"_message":"Media validation failed","errors":{"user_id":{"kind":"required","message":"Path `user_id` is required.","name":"ValidatorError","path":"user_id","properties":{"message":"Path `user_id` is required.","path":"user_id","type":"required"}}},"level":"error","message":"Error uploading file Media validation failed: user_id: Path `user_id` is required.","service":"identified-service","stack":"ValidationError: Media validation failed: user_id: Path `user_id` is required.\n    at Document.invalidate (C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\document.js:3329:32)\n    at C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\document.js:3090:17\n    at C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-04-08T11:26:01.689Z"}
+{"level":"info","message":"POST /upload","service":"identified-service","timestamp":"2025-04-08T11:26:51.839Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:26:51.840Z"}
+{"api_key":"945373698964274","asset_id":"d5c8049736189840649187e6fc5a03b6","bytes":512017,"created_at":"2025-04-08T11:26:55Z","etag":"7c858c1e9e6c971cc360141e92fc918e","folder":"","format":"jpg","height":1792,"level":"info","message":"File uploaded to Cloudinary","original_filename":"file","placeholder":false,"public_id":"ot1eklhtuvbi5zvcqbim","resource_type":"image","secure_url":"https://res.cloudinary.com/drrfx5vki/image/upload/v1744111615/ot1eklhtuvbi5zvcqbim.jpg","service":"identified-service","signature":"dc8934af61c4ce3dddc68908ea5e6fc7f4e2d29b","tags":[],"timestamp":"2025-04-08T11:26:55.856Z","type":"upload","url":"http://res.cloudinary.com/drrfx5vki/image/upload/v1744111615/ot1eklhtuvbi5zvcqbim.jpg","version":1744111615,"version_id":"272a3108aeab4257c167ab824d6697fb","width":1792}
+{"_message":"Media validation failed","errors":{"user_id":{"kind":"required","message":"Path `user_id` is required.","name":"ValidatorError","path":"user_id","properties":{"message":"Path `user_id` is required.","path":"user_id","type":"required"}}},"level":"error","message":"Error uploading file Media validation failed: user_id: Path `user_id` is required.","service":"identified-service","stack":"ValidationError: Media validation failed: user_id: Path `user_id` is required.\n    at Document.invalidate (C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\document.js:3329:32)\n    at C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\document.js:3090:17\n    at C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-04-08T11:26:55.858Z"}
