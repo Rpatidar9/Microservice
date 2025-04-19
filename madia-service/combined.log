@@ -52,3 +52,42 @@
 {"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-08T11:26:51.840Z"}
 {"api_key":"945373698964274","asset_id":"d5c8049736189840649187e6fc5a03b6","bytes":512017,"created_at":"2025-04-08T11:26:55Z","etag":"7c858c1e9e6c971cc360141e92fc918e","folder":"","format":"jpg","height":1792,"level":"info","message":"File uploaded to Cloudinary","original_filename":"file","placeholder":false,"public_id":"ot1eklhtuvbi5zvcqbim","resource_type":"image","secure_url":"https://res.cloudinary.com/drrfx5vki/image/upload/v1744111615/ot1eklhtuvbi5zvcqbim.jpg","service":"identified-service","signature":"dc8934af61c4ce3dddc68908ea5e6fc7f4e2d29b","tags":[],"timestamp":"2025-04-08T11:26:55.856Z","type":"upload","url":"http://res.cloudinary.com/drrfx5vki/image/upload/v1744111615/ot1eklhtuvbi5zvcqbim.jpg","version":1744111615,"version_id":"272a3108aeab4257c167ab824d6697fb","width":1792}
 {"_message":"Media validation failed","errors":{"user_id":{"kind":"required","message":"Path `user_id` is required.","name":"ValidatorError","path":"user_id","properties":{"message":"Path `user_id` is required.","path":"user_id","type":"required"}}},"level":"error","message":"Error uploading file Media validation failed: user_id: Path `user_id` is required.","service":"identified-service","stack":"ValidationError: Media validation failed: user_id: Path `user_id` is required.\n    at Document.invalidate (C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\document.js:3329:32)\n    at C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\document.js:3090:17\n    at C:\\Users\\NPC\\Desktop\\project\\Microservice\\madia-service\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-04-08T11:26:55.858Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-18T04:00:10.319Z"}
+{"level":"info","message":"✅ Server is running on port 3003","service":"identified-service","timestamp":"2025-04-18T04:00:10.371Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-18T04:05:05.415Z"}
+{"level":"info","message":"✅ Server is running on port 3003","service":"identified-service","timestamp":"2025-04-18T04:05:05.473Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-18T04:16:56.247Z"}
+{"level":"info","message":"✅ Server is running on port 3003","service":"identified-service","timestamp":"2025-04-18T04:16:56.292Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-18T04:18:57.828Z"}
+{"level":"info","message":"✅ Server is running on port 3003","service":"identified-service","timestamp":"2025-04-18T04:18:57.877Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-18T04:22:41.066Z"}
+{"level":"info","message":"✅ Server is running on port 3003","service":"identified-service","timestamp":"2025-04-18T04:22:41.107Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:25:33.412Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:25:33.413Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:25:33.415Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:26:01.260Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:26:01.261Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:26:01.262Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:26:32.732Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:26:32.732Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:26:32.733Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:26:42.678Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:26:42.678Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:26:42.679Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:27:47.058Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:27:47.059Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:27:47.059Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:28:06.751Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:28:06.752Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:28:06.754Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:28:08.397Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:28:08.397Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:28:08.399Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:28:26.762Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:28:26.763Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:28:26.763Z"}
+{"level":"info","message":"POST /getAll-upload-media","service":"identified-service","timestamp":"2025-04-18T04:28:57.584Z"}
+{"level":"info","message":"Request Body: {}","service":"identified-service","timestamp":"2025-04-18T04:28:57.585Z"}
+{"level":"error","message":"No file uploaded","service":"identified-service","timestamp":"2025-04-18T04:28:57.586Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identified-service","timestamp":"2025-04-18T12:22:12.023Z"}
+{"level":"info","message":"✅ Server is running on port 3003","service":"identified-service","timestamp":"2025-04-18T12:22:12.081Z"}

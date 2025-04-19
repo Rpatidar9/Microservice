@@ -92,7 +92,7 @@ async function deletePost(req, res) {
 
         // Remove from cache
         await req.redisClient.del(cacheKey);
-        await RabbitMQEvent.publicEvent('post.deleted', { postId:postId,userId:PostDetail.user });
+        await RabbitMQEvent.publicEvent('post.deleted', { postId:postId,userId:PostDetail.user,public_id:PostDetail.public_id });
         res.status(200).json({ message: "Post deleted successfully" });
     } catch (error) {
         res.status(400).json({ error: error.message });

@@ -34,7 +34,7 @@ const startServer = async () => {
       console.log('✅ Connected to RabbitMQ');
   
       console.log('📡 Setting up consumer...');
-      await RabbitMQ.consumeEvent('post.delete', handlePostDelete); // Consume the event
+      await RabbitMQ.consumeEvent('post.deleted', handlePostDelete); // Consume the event
       console.log('✅ Consumer set up');
   
       console.log('🚀 Starting Express server...');

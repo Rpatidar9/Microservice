@@ -5,7 +5,7 @@ const logger = require('../utills/logger');
     try {
     if(!req.file) {
         logger.error("No file uploaded");
-        return res.status(400).json({ message: 'No file uploaded' });
+        return res.status(404).json({ message: 'No file uploaded' });
     }
     console.log("req.file",req.file);
     
@@ -47,4 +47,14 @@ const GetAllUploadMedia = async (req, res) => {
         
     }
 }
-module.exports = { uploadMedia ,GetAllUploadMedia};
+const updateMedia = async (req, res) => {
+    try {
+        res.status(200).json({ message: 'Error updating file', data:"message" });
+        
+    } catch (error) {
+        logger.error("Error updating file", error);
+        res.status(500).json({ message: 'Error updating file', error: error.message });
+        
+    }
+}
+module.exports = { uploadMedia ,GetAllUploadMedia,updateMedia};
