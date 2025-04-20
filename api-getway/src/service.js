@@ -66,7 +66,21 @@ app.use('/v1/media', proxy(
     parseReqBody: false
   }
 ));
-
+//setting up proxy for our search service
+app.use('/v1/search',proxy(process.env.SEARCH_SERVICE_URL,proxyOptions,
+    {
+        proxyReqOptDecorator: function(proxyReqOpts, srcReq) {
+            proxyReqOpts.headers['Content-type'] = "application/json";
+            return proxyReqOpts;
+        }},
+        {
+        userResDecorator: function(proxyRes, proxyResData, userReq, userRes) {
+            console.log(`response from Search service ${proxyRes.statusCode}`);
+            
+            return proxyResData;
+        },
+    },
+    ));
 app.use((req,res,next)=>{
     console.log(`${req.method} ${req.url}`);
     console.log(`Request Body: ${JSON.stringify(req.body)}`);
@@ -78,5 +92,6 @@ app.listen(PORT,()=>{
     console.log(`Idefied service is running on port  ${process.env.IDENTITY_SERVICE_URL}`);
     console.log(`Idefied service is running on port  ${process.env.POST_SERVICE_URL}`);
     console.log(`media service is running on port  ${process.env.MEDIA_SERVICE_URL}`);
+    console.log(`search service is running on port  ${process.env.SEARCH_SERVICE_URL}`);
     console.log(`Redis is running on port ${"redis://localhost:6379"}`);
 });

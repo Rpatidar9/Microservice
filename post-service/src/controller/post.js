@@ -18,7 +18,7 @@ async function createPost(req, res) {
         });
 
         const savedPost = await post.save();
-
+        await RabbitMQEvent.publicEvent('post.created', { postId:savedPost._id,userId:savedPost.user,content:savedPost.content });
         // Call the function directly instead of using 'this'
         await invalidPostCache(req);
 

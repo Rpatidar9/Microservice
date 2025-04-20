@@ -34,4 +34,4 @@ async function consumeEvent(routingKey,callback) {
         }
     })
 }
-module.exports = {RabbitMQConnect, publicEvent, consumeEvent};
+module.exports = {RabbitMQConnect, consumeEvent};
